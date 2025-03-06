@@ -4,12 +4,13 @@ import Preparation from './components/Preparation'
 import Ingredients from './components/Ingredients'
 import Instructions from './components/Instructions'
 import Nutrition from './components/Nutrition'
+import omelette from './assets/images/image-omelette.jpeg'
 
 function App() {
 
   return (
     <main>
-      <img src="/src/assets/images/image-omelette.jpeg" alt="Omelette." />
+      <img src={omelette} alt="Omelette." />
       <Header />
       <Preparation />
       <Ingredients />
