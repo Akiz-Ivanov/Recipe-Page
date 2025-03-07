@@ -5,7 +5,8 @@
     background-color: var(--Rose0);
     margin-inline: 1.5rem;
     margin-block: 1rem;
-    padding: 1rem;
+    padding-block: 1rem;
+    padding-inline: 0.5rem;
     border-radius: 1rem;
     line-height: 140%;
 }
@@ -24,8 +25,9 @@ h3 {
     font-weight: 400;
     margin-inline: 0.5rem;
     margin-block: 0.7rem;
-    padding-left: 3rem;
-
+    padding-inline: 3.5rem;
+    
+    font-size: 1.1rem;
 }
 
 .preparation-ul > li::before {
@@ -40,7 +42,7 @@ h3 {
 }
 
 li strong {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 1.1rem;
 }
 
