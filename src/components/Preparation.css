@@ -12,7 +12,7 @@
 }
 
 
-h3 {
+.preparation-header {
     color: var(--Rose00);
     font-size: 1.3rem;
     margin-inline: 1rem;
