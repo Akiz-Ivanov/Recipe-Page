@@ -1,12 +1,53 @@
-# React + Vite
+# Frontend Mentor - Recipe page solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Currently, two official plugins are available:
+## Table of contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Overview
+
+### Screenshot
+
+#### Desktop Design
+![Desktop Screenshot](./screenshots/desktop.png)
+
+#### Mobile Design
+![Mobile Screenshot](./screenshots/mobile.png)
+
+
+### Links
+
+- **Solution URL**: [https://github.com/Akiz-Ivanov/Recipe-Page](https://github.com/Akiz-Ivanov/Recipe-Page)
+- **Live Site URL**: [https://akiz-ivanov.github.io/Recipe-Page/](https://akiz-ivanov.github.io/Recipe-Page/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
+- [Vite](https://vitejs.dev/) - Build tool
+
+
+### What I learned
+
+- Gained more hands-on experience with **React** by building components.
+- Improved my **GitHub** skills, including committing changes, working with branches and **GitHub Pages**.
+
+
+## Author
+
+- Frontend Mentor - [@Akiz97](https://www.frontendmentor.io/profile/Akiz97)
